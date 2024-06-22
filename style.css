@@ -35,7 +35,7 @@ img{
     padding-bottom: 15px;
 
     object-fit: cover;
-    filter: drop-shadow(0 0 5px pink);
+    filter: drop-shadow(0 0 8px pink);
 }
 
 .earth,.flower,.forest,.lake,.moon{
